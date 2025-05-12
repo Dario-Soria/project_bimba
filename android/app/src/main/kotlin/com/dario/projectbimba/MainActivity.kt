@@ -1,4 +1,4 @@
-package com.example.project_bimba
+package com.dario.projectbimba
 
 import io.flutter.embedding.android.FlutterActivity
 
